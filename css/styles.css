@@ -58,7 +58,7 @@ h1{
 
 /* Flechita*/
 .icon{
-	animation: float 1.5s ease-out infinite;
+	animation: float 0.3s ease-out infinite;
 	font-size: 4rem !important;
 	color: white;
 }
